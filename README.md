@@ -1,14 +1,14 @@
 <h1 align="center">
 <!--  <p align="center">Datenschmutz.dev</p> -->
-  <a href="https://cal.datenschmutz.dev"><img src="./static/img/dmz-main-logo-c.svg" alt="Datenschmutz"></a>
+  <a href="https://events.datenschmutz.dev"><img src="./static/img/dmz-main-logo-c.svg" alt="Datenschmutz"></a>
 </h1>
 
 <p align="center">
-<img alt="GitHub" src="https://img.shields.io/github/license/datenschmutz/calendars?style=for-the-badge">
-<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr-raw/datenschmutz/calendars?style=for-the-badge">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/datenschmutz/calendars?style=for-the-badge">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/datenschmutz/calendars?style=for-the-badge">
-<img alt="GitHub milestones" src="https://img.shields.io/github/milestones/all/datenschmutz/calendars?style=for-the-badge">
+<img alt="GitHub" src="https://img.shields.io/github/license/datenschmutz/events?style=for-the-badge">
+<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr-raw/datenschmutz/events?style=for-the-badge">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/datenschmutz/events?style=for-the-badge">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/datenschmutz/events?style=for-the-badge">
+<img alt="GitHub milestones" src="https://img.shields.io/github/milestones/all/datenschmutz/events?style=for-the-badge">
 </p>
 
 <h3 align="center">
@@ -16,14 +16,14 @@
 </h3>
 
 <h3 align="center">
-<a href="https://cal.datenschmutz.dev"><img src="./static/img/work-in-progress.svg" width="350" height="175" alt="Datenschmutz Work in Progress"></a><br/>
+<a href="https://events.datenschmutz.dev"><img src="./static/img/work-in-progress.svg" width="350" height="175" alt="Datenschmutz Work in Progress"></a><br/>
 <p align="center">We are just starting with this site. Please participate and share your knowlegde e.g. for tools not covered, errors or improvements.</p>
 </h3>
 
 # Contributors
 <h3 align="center">
-<a href="https://github.com/datenschmutz/calendars/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=datenschmutz/calendars" />
+<a href="https://github.com/datenschmutz/events/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=datenschmutz/events" />
 </a>
 </h3>
 
