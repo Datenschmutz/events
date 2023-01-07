@@ -136,6 +136,10 @@ const config = {
                 href: '/datenschmutz',
               },
               {
+                label: 'Datenschmutz IT-Docs',
+                href: 'https://docs.datenschmutz.dev',
+              },
+              {
                 label: 'T4KUUY4',
                 href: 'https://github.com/T4KUUY4',
               },
