@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdatenschmutz_cal=self.webpackChunkdatenschmutz_cal||[]).push([[182],{5745:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
