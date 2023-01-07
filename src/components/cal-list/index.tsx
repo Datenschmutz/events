@@ -52,7 +52,7 @@ function CalendarCard({
             )}
             {URL && (
               <Link className="button button--secondary" onClick={() => {navigator.clipboard.writeText(URL)}}>
-                Copy URL
+                Copy subscription link
               </Link>
             )}
           </div>
@@ -74,7 +74,7 @@ export function CalendarRow(): JSX.Element {
       <CalendarCardCol
         name="Apple Events 🍏"
         image="apple-logo.svg"
-        URL="https://event.datenschmutz.dev/remote.php/dav/public-calendars/DM5wzwJCBXERxqZc?export">
+        URL="https://ics.datenschmutz.dev/remote.php/dav/public-calendars/ntcsgYYCb2Yctbqe?export">
         <Translate id="apple.card.body">
         Stay up-to-date on all things 🍏 Apple with our calendar of events.
         From product launches to educational sessions, never miss a moment.
