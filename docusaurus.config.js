@@ -79,15 +79,15 @@ const config = {
             position: 'left',
             label: 'Documenation',
           },
-          //{to: '/blog', label: 'Blog', position: 'left'},
           {
             type: 'localeDropdown',
             position: 'right',
           },
           {
             href: 'https://github.com/datenschmutz/events',
-            label: 'GitHub',
             position: 'right',
+            className: 'header-github',
+            'aria-label': 'GitHub Repository',
           },
         ],
       },
