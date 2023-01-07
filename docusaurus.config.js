@@ -89,6 +89,12 @@ const config = {
             className: 'header-github',
             'aria-label': 'GitHub Repository',
           },
+          {
+            href: 'https://docs.datenschmutz.dev',
+            position: 'right',
+            className: 'header-datenschmutz-docs',
+            'aria-label': 'Datenschmutz Docs',
+          },
         ],
       },
       footer: {
