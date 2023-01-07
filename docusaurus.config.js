@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Datenschmutz', // Usually your GitHub org/user name.
-  projectName: 'calendars', // Usually your repo name.
+  projectName: 'events', // Usually your repo name.
   deploymentBranch: "gh-pages",
   trailingSlash: false,
 
