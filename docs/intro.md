@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 sidebar_label: 'Introduction'
 id: intro
 description: Welcome to Datenschmutz Calenders!
