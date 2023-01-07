@@ -1,0 +1,46 @@
+{
+  "link.title.Categories": {
+    "message": "Kategorien",
+    "description": "The title of the footer links column with title=Categories in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.About": {
+    "message": "About",
+    "description": "The title of the footer links column with title=About in the footer"
+  },
+  "link.item.label.Calendars": {
+    "message": "Kalender",
+    "description": "The label of footer link with label=Calendars linking to /calendars"
+  },
+  "link.item.label.Documenation": {
+    "message": "Dokumenation",
+    "description": "The label of footer link with label=Documenation linking to /docs/intro"
+  },
+  "link.item.label.Contribute": {
+    "message": "Beitragen",
+    "description": "The label of footer link with label=Contribute linking to https://github.com/Datenschmutz/docs/blob/main/CONTRIBUTING.md"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/Datenschmutz/calendar"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/datenschmutz"
+  },
+  "link.item.label.What does Datenschmutz mean?": {
+    "message": "What does Datenschmutz mean?",
+    "description": "The label of footer link with label=What does Datenschmutz mean? linking to /datenschmutz"
+  },
+  "link.item.label.T4KUUY4": {
+    "message": "T4KUUY4",
+    "description": "The label of footer link with label=T4KUUY4 linking to https://github.com/T4KUUY4"
+  },
+  "copyright": {
+    "message": "Copyright © 2023 Datenschmutz, Inc. Built with ❤️.",
+    "description": "The footer copyright"
+  }
+}

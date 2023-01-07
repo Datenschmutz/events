@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Datenschmutz",
+    "description": "The title in the navbar"
+  },
+  "item.label.Calendars": {
+    "message": "Kalender",
+    "description": "Navbar item with label Calendars"
+  },
+  "item.label.Documenation": {
+    "message": "Dokumenation",
+    "description": "Navbar item with label Documenation"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
