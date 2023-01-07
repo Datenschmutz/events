@@ -80,6 +80,14 @@ export function CalendarRow(): JSX.Element {
         From product launches to educational sessions, never miss a moment.
         </Translate>
       </CalendarCardCol>
+      <CalendarCardCol
+        name="Formula 1 Calendar 2023"
+        image="f1.svg"
+        URL="https://ics.datenschmutz.dev/remote.php/dav/public-calendars/8BrYLL6b2T9siEtr?export">
+        <Translate id="f12023.card.body">
+        Stay up-to-date on all F1 Qualifyings and Races with our calendar.
+        </Translate>
+      </CalendarCardCol>
     </div>
   );
 }
