@@ -8,7 +8,7 @@ slug: /intro
 
 # Introduction
 
-Welcome to Datenschmutz Calenders! 
+Welcome to Datenschmutz Events!
 
 Our website provides a wide range of calendars featuring a variety of events that can be easily synced with your calendar app of your choice.
 

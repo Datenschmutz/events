@@ -8,7 +8,7 @@ slug: /intro
 
 # Einführung
 
-Willkommen bei Datenschmutz Calenders!
+Willkommen bei Datenschmutz Events!
 
 Auf unserer Website findest du eine große Auswahl an Kalendern mit einer Vielzahl von Veranstaltungen, die du ganz einfach mit der Kalender-App deiner Wahl synchronisieren kannst.
 
